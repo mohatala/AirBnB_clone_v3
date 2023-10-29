@@ -15,11 +15,7 @@ def returnstuff():
 
 @app_views.route('/stats', strict_slashes=False)
 def stuff():
-<<<<<<< Updated upstream
     '''JSON Response'''
-=======
-    '''JSON Responses'''
->>>>>>> Stashed changes
     todos = {'states': State, 'users': User,
             'amenities': Amenity, 'cities': City,
             'places': Place, 'reviews': Review}

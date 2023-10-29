@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-<<<<<<< Updated upstream
 """AirBNB Flask (variable app)
-=======
-"""AirBNB Flask server (variable app)
->>>>>>> Stashed changes
 """
 
 from flask import Flask, jsonify
